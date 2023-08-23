@@ -9,7 +9,9 @@ Purpose of development of this application is to showcase my knowledge of follow
 1. Laravel 10
 2. Bootstrap 5
 
-### Assumptions
+### Environment Changes
+
+> Please rename `.env.example` to `.env`
 
 > Please set the value of `VITE_GOOGLE_MAP_API_KEY` variable in `.env` file to your google api key
 
